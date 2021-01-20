@@ -13,8 +13,7 @@ export const Square = ({ black, children }) => {
 				height: "100%",
 				display: "flex",
 				justifyContent: "center",
-				alignItems: "center",
-				fontSize: "xx-large"
+				alignItems: "center"
 			}}
 		>
 			{children}
